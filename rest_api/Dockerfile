@@ -12,5 +12,5 @@ COPY rest_api /src/rest_api/rest_api/
 RUN echo "source activate rest-api-env" > ~/.bashrc
 ENV PATH /opt/conda/envs/rest-api-env/bin:$PATH
 
+#Install flask-rebar with pip (not in Conda)
 RUN pip install flask-rebar==1.1.0
-RUN pip install marshmallow==2.16.3
