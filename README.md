@@ -6,4 +6,4 @@ If you really don't want to read the [blog post](https://think-engineer.com/blog
 ```sh
 git clone https://github.com/Think-Engineer/docker-compose_nginx_ssl_demo
 ```
-And then read the blog post. It's free information; I don't want to type it out twice. 
+And then read the blog post.
